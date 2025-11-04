@@ -21,7 +21,7 @@ I build production-grade business applications with modern tech stacks. Backgrou
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/hussamshahin)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hussamshahin/)
 - 📧 samsroyalty77@gmail.com
 - 🌐 Portfolio: [Coming soon]
 
