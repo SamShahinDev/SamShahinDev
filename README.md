@@ -1,6 +1,6 @@
 # Hi, I'm Hussam (Sam) Shahin 👋
 
-## Full-Stack Engineer | AI/ML Enthusiast
+## Full-Stack Engineer | AI/ML | Fintech | Building production systems from SaaS platforms to algorithmic trading bots
 
 I build production-grade business applications with modern tech stacks. Background in B2B sales gives me unique insight into customer problems and how to solve them with software.
 
