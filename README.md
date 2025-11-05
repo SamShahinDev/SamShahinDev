@@ -31,6 +31,3 @@ I build production-grade business applications with modern tech stacks. Backgrou
  Deepening expertise in AI agent architectures  
  Open to: Full-Stack Engineer, AI Engineer, Software Engineer, Solutions Engineer roles  
 
----
-
- Check out my pinned repositories below.
